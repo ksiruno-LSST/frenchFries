@@ -5,4 +5,4 @@ This will show how to stage a single line.
 
 ## Merging Vs Rebasing
 
-###MERGING VS REBASING
+### MERGING VS REBASING
