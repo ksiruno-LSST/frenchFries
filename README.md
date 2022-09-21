@@ -6,4 +6,7 @@ This will show how to stage a single line.
 ## Tutorial
 ## Merging Vs Rebasing
 
-### MERGING VS REBASING
+Merge and rebase can be almost the same. 
+The main difference is that Merge leaves an extra commit.
+
+Rebase actually rewrites the history line of a GIT repo.
